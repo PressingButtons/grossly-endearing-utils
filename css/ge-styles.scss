@@ -1,0 +1,16 @@
+:root {
+
+}
+
+.ge-scrollbar {
+    border-radius: 5px;
+    background: linear-gradient(to bottom, #FF8B87, #BEC8CE);
+    .ge-scroll-track {
+        background: linear-gradient(to bottom, #F7EBBB, #DEEFDC);
+        padding: 3px;
+    }
+    .ge-scroll-thumb {
+        background-color: #FF8B87;
+        border-radius: 5px;
+    }
+}
